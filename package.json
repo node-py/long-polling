@@ -1,0 +1,24 @@
+{
+  "name": "long-polling",
+  "version": "1.0.0",
+  "description": "This is the project to implement long polling using node js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-py/long-polling.git"
+  },
+  "author": "vikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-py/long-polling/issues"
+  },
+  "homepage": "https://github.com/node-py/long-polling#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
